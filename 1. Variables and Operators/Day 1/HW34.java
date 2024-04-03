@@ -8,7 +8,7 @@
 원기둥의 부피 : _(계산하여 출력)_
  */
 
-// 원기둥의 부피 공식 : PI*r*r*h 이용
+// 원기둥의 부피 공식 : PI * r * r * h 이용
 
 public class HW3 {
     public static void main(String[] args) {
