@@ -1,3 +1,6 @@
+// 1 다음 코드의 출력 결과와
+// 2 그 이유를 주석으로 작성하기
+
 public class HW34 {
     public static void main(String[] args) {
         int i;
